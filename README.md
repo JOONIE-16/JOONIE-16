@@ -1,6 +1,9 @@
 # 🕵️‍♂️ Sobre mi:
 |Estudiante de Ing. en Sistemas Computacionales.  
-|UX Designer. |TechEdu Acc. Manager & Colaborator. Joven apasionado por la tecnología, la ciberseguridad y la lectura. Amante del café y los videojuegos. Siempre en constante capacitación para mejorar un poco cada día. 
+|UX Designer. 
+|TechEdu Acc. Manager & CoFounder. 
+
+"Joven apasionado por la tecnología, la ciberseguridad, la inteligencia y la lectura. Amante del café y los videojuegos. Siempre en constante capacitación para mejorar un poco cada día. " - JoseRom.
 
 # 🗺Idiomas:
 - Español (Lengua Materna)
